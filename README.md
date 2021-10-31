@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `npm run ejects`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -54,6 +54,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 ### Making a Progressive Web App
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
 
 ### Advanced Configuration
 
